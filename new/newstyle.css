@@ -1,0 +1,194 @@
+/* Eric Meyer CSS Reset */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	line-height: 1;
+	color: black;
+	}
+	
+ul {
+	list-style: none;
+	padding-left: 10px;
+}
+
+ol {
+	list-style: none;
+	padding-left: 10px;
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+/* End CSS Reset! */
+
+
+body {
+color: #000;
+background: #e3d6ad;
+}
+
+
+img.illustration {
+margin-bottom: -10px;
+}
+
+
+strong {
+font-weight: bolder;
+}
+
+em {
+font-style: italic;
+}
+
+abbr {
+border-bottom: 1px dotted #000;}
+
+
+a:link {
+text-decoration: none;
+color: #CC7A72;
+}
+
+a:visited {
+text-decoration: none;
+color: #CC7A72;
+}
+
+a:hover {
+color: #000;
+text-decoration: none;
+}
+
+#header {
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+
+h1 {
+font-family: "droid sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 0.8em;
+color: #000;
+text-transform: uppercase;
+letter-spacing: 0.2em;
+}
+
+
+h2 {
+font-family: "droid sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #000;
+font-size: 1.9em;
+font-weight: bolder;
+margin-top: 1.9em;
+}
+
+
+h3 {
+font-family: "droid sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #000;
+font-size: 1.3em;
+font-weight: bolder;
+margin-top: 1.9em;
+}
+
+
+
+p {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 1em;
+font-weight: lighter;
+line-height: 150%;
+color: #000;
+}
+
+
+p.block {
+font-family: Helvetica, Arial, sans-serif;
+color: #fff;
+}
+
+/* structure */
+
+.container {
+padding: 20px;
+}
+
+.row {
+width: 100%;
+max-width: 1140px;
+min-width: 755px;
+margin: 0 auto;
+overflow: hidden;
+margin-bottom: 3.8%;
+}
+
+.one {
+float: left;
+margin-right: 3.8%;
+padding: 5px;
+background-color: red;}
+
+.one {
+float: left;
+margin-right: 3.8%;
+padding: 5px;
+background-color: red;
+}
+
+
+/* smaller screens */
+
+
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+	font-size: 16px;
+	-webkit-text-size-adjust: none;
+	}
+	
+	.row, body, .container {
+	width: 100%;
+	min-width: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+	
+	.row, body, .one {
+	
+	width: auto;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	}

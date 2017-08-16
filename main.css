@@ -1,0 +1,486 @@
+/*-----------------------------------------------------------------------------
+Rebecca Cottrell Portfolio 2009
+
+version:   1.0
+author:    Rebecca Cottrell, based on templates by Andy Budd and Eric Meyer
+email:     r.e.cottrell@gmail.com
+website:   http://www.rebeccacottrell.co.uk/
+-----------------------------------------------------------------------------*/
+
+/* =General
+-----------------------------------------------------------------------------*/
+
+
+/* Reset default browser styles */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+	line-height: 150%;
+	font-size: 1em;
+	color: black;
+	background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+
+
+
+#index {
+background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+#recent {
+background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+
+#academic {
+background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+
+#cv {
+background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+
+
+#contact {
+background: #fff url(images/bg/rotate.php) repeat-x;
+}
+
+
+
+/* =Typography - Arial before Helvetica (but not Helvetica Neue)
+-----------------------------------------------------------------------------*/
+
+p {
+font-size: 1em;
+font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+line-height: 150%;
+margin-bottom: 1.5em;
+}
+
+h1 {
+font-size: 2em;
+font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+line-height: 150%;
+}
+
+h2 {
+font-size: 1.2em;
+font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+line-height: 150%;
+}
+
+h3 {
+font-size: 1.1em;
+font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+line-height: 150%;
+}
+
+em {
+font-style: italic;
+}
+
+strong {
+font-weight: bolder;
+}
+
+ul.main {
+padding: 5px;
+}
+
+li.main {
+list-style-type: none;
+}
+
+#cv ul {
+margin-left: 20px;}
+
+#cv li {
+list-style-type: disc;
+}
+
+#cv h2 {
+margin-bottom: 20px;}
+
+#cv h3 {
+font-size: 0.9em;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+margin-top: 40px;
+border-bottom: 1px solid #ccc;}
+
+#cv p {
+margin-bottom: 10px;
+margin-left: 0.5;}
+
+.profile {
+line-height: 180%;
+width: 500px;
+margin-left: 20px;
+margin-top: 10px;
+}
+
+.date {
+font-size: 0.8em;
+color: #000;
+text-indent: 0px;
+}
+
+.title {
+text-indent: 0px;
+font-size: 0.9em;
+line-height: 90%;
+}
+.role {
+margin-top: 30px;
+text-indent: 0px;
+font-size: 1em;
+line-height: 90%;
+font-weight: bolder;
+}
+
+.desc {
+font-size: 0.9em;
+}
+
+
+.skills {
+width: 200px;
+float: right;
+}
+/* =Links
+-----------------------------------------------------------------------------*/
+
+a:link {
+text-decoration: none;
+color: #000;
+background: #FCE9F1;
+border-bottom: 2px solid #ccc;
+padding: 2px;
+
+}
+
+a:visited {
+text-decoration: none;
+color: #000;
+background: #FCE9F1;
+border-bottom: 2px solid #ccc;
+padding: 2px;
+
+
+}
+
+a:hover {
+text-decoration: none;
+color: #fff;
+background: #CC0000;
+padding: 2px;
+
+}
+
+
+
+/* =Main Nav
+-----------------------------------------------------------------------------*/
+
+
+
+#nav {
+margin-left: 80%;
+background: transparent;
+padding: 10px;
+line-height: 150%;
+font-family: "Lucida Grande", "Trebuchet MS", "Helvetica Neue", Arial, Helvetica;
+}
+
+#nav ul {
+margin: 0;}
+
+#nav li {
+text-indent: 3px;
+font-size: 0.8em;
+list-style-type: none}
+
+#nav a {
+color: #000;
+background: transparent;
+border-bottom: 1px solid #ccc;
+display: block;
+padding: 4px;
+font-size: 1em;
+}
+
+#nav a:visited {
+color: #000;
+background: transparent;
+padding: 4px;
+font-size: 1em;
+}
+
+
+#nav a:hover {
+color: #fff;
+background: #CC0000;
+padding: 4px;
+font-size: 1em;
+}
+
+#nav a:active {
+color: #fff;
+background: #000;
+padding: 4px;
+font-size: 1em;
+}
+
+#nav a.selected {
+color: #000;
+font-weight: bold;
+background: #f1f1f1;
+padding: 4px;
+font-size: 1em;
+}
+
+
+#nav a:hover.selected {
+color: #000;
+font-weight: bold;
+background: #ccc;
+padding: 4px;
+font-size: 1em;
+
+}
+
+
+
+/* =Main Content
+-----------------------------------------------------------------------------*/
+
+#header {
+margin-top: 0px; 
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+min-width: 640px;
+max-width: 73%;
+}
+
+#main { 
+margin-bottom: 5px;
+margin-top: 5px;
+background: #fff;
+padding: 10px;
+min-width: 640px;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid #f1f1f1;
+}
+
+#inner {
+background: #fff url(images/innerbg.png) repeat-x;
+min-height: 300px;
+padding: 20px;
+}
+
+/*
+#doc {
+width: 600px;
+}
+*/
+
+#tree {
+background: url(images/logo.png) no-repeat;
+width: 240px;
+height: 117px;
+margin: 10px 0px -20px 40px;
+}
+
+
+#logotext {
+float: left;
+}
+
+#logotext h1 {
+font-weight: lighter;
+color: #222;
+font-size: 1.7em; 
+}
+
+#logotext a {
+background: transparent;
+color: #000;
+border-bottom: 0px;
+}
+
+#logotext a:hover {
+background: transparent;
+color: #555;
+border-bottom: 0px;
+}
+
+#logotext p {
+font-size: 0.9em; 
+margin-left: 3px;
+color: #222;
+line-height: 80%;
+}
+
+
+.amp {
+font-family: Baskerville, Georgia, serif;
+font-style: italic;
+}
+
+#content {
+margin-top: 0px;
+max-width: 700px;
+}
+
+.imgleft {
+float: left;
+margin-right: 15px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+
+.imgright {
+float: right;
+margin-left: 50px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+
+.infobox {
+float: right;
+width: 130px;
+background: transparent;
+border: 3px solid #f1f1f1;
+min-height: 50px;
+padding: 20px;}
+
+
+.infobox a {
+background: #fff;
+}
+
+.infobox a:hover {
+background: #fff;
+color: #000;
+}
+
+/* =Portfolio Content
+-----------------------------------------------------------------------------*/
+
+#items {
+overflow: hidden;
+}
+
+.item { 
+width: 280px;
+height: 200px;
+padding: 15px; 
+border: 5px solid #F4F4F4;
+margin: 10px 40px 40px 10px;
+float: left;
+}
+
+.item p {
+font-size: smaller;
+line-height: 50%;
+}
+
+.item a {
+background: none;
+color: #0066FF;
+font-family: Georgia, "Times New Roman", serif;
+font-size: 1.3em;
+}
+
+.item a:hover {
+color: #000;
+}
+
+
+
+/* =Footer
+-----------------------------------------------------------------------------*/
+#footer { 
+background: #fff;
+margin: 0px 20px 0 25px;
+padding: 10px;
+min-width: 550px;
+max-width: 70%;
+margin-left: auto;
+margin-right: auto;
+}
+
+#footer p {
+color: #000;
+font-size: smaller;
+text-align: left;
+margin-left: 20px;
+}
+
+#footer a {
+color: #000;
+background: transparent;}
+
+#footer a:hover {
+color: #000;
+background: transparent;}
+
+/* =Forms
+-----------------------------------------------------------------------------*/
+
+/* Removes fieldset borders. even on Opea 7 */
+fieldset {
+  border: 1px solid transparent;
+}
+
+
+
+
+/* =Misc 1
+-----------------------------------------------------------------------------*/
+
+
+
+/* =Misc 2
+-----------------------------------------------------------------------------*/
