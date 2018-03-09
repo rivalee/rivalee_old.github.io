@@ -122,7 +122,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  background: #fff;
+  background: #d0eeff;
   color: #000;
   font-size: 1.5em;
   line-height: 1.6;
