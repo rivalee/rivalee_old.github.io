@@ -385,8 +385,15 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 .comic {
-  width: 100%; height: auto;
-  margin-bottom: 10rem;
+  width: 31%; height: auto;
+  margin: 10px;
+  float: left;
+
+}
+
+.story-row {
+  display: inline-block;
+  background: black;
 }
 
 .logo {
