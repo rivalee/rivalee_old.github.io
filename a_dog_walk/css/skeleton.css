@@ -383,17 +383,18 @@ hr {
   margin-bottom: 3.5rem;
   border-width: 0;
   border-top: 1px solid #E1E1E1; }
-
+.story {
+  background: black;
+}
 .comic {
-  width: 31%; height: auto;
-  margin: 10px;
+  width: 29%; height: auto;
   float: left;
+  border: 20px solid black;
 
 }
 
 .story-row {
   display: inline-block;
-  background: black;
 }
 
 .logo {
