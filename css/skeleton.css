@@ -124,8 +124,7 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 html {
   font-size: 62.5%; }
 body {
-  background: #fcffd9;
-  color: #0021ed;
+  background: #fff;
   font-size: 1.5em;
   line-height: 1.6;
   font-weight: 400;
@@ -425,7 +424,8 @@ hr {
 
 .copyright {
   font-size: 18px;
-  margin-top: 3em;}
+  margin-top: 3em;
+}
 
 .selected {
   font-weight: bold;
