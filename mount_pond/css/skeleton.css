@@ -380,8 +380,10 @@ hr {
   border-top: 1px solid #E1E1E1; }
 
 .comic {
-  width: 100%; height: auto;
+  width: 40%; height: auto;
   margin-bottom: 10rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 
 .logo {
