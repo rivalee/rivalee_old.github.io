@@ -122,13 +122,13 @@ are based on 10px sizing. So basically 1.5rem = 15px :) */
 
 
 html {
-  font-size: 62.5%; }
+  font-size: 55.5%; }
 body {
-  background: #eafff0;
+  background: #fff;
   font-size: 1.5em;
   line-height: 1.6;
   font-weight: 400;
-  font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .comics {background: #fff;}
