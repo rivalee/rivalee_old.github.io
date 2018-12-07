@@ -5,6 +5,7 @@
 layout: page
 
 ---
-# Contact
+# contact
 
-Email me [r.e.cottrell@gmail.com](r.e.cottrell@gmail.com) 
+Email [r.e.cottrell@gmail.com](r.e.cottrell@gmail.com)  
+Instagram [rapturebird](http://instagram.com/rapturebird)
