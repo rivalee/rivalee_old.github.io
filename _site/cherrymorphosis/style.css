@@ -1,0 +1,214 @@
+/* Rivalee's playground */
+
+
+/* CSS reset by Eric Mayer (adapted) */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	color: black;
+	}
+
+ul {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.5em;
+	margin-bottom: 1em;
+}
+
+li {
+	list-style-type: none;
+  padding: 5px;
+}
+
+}
+caption, th, td {
+	text-align: left;
+	font-weight: normal;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: "";
+}
+blockquote, q {
+	quotes: "" "";
+}
+
+/* end css reset */
+
+
+
+* {
+line-height: 140%;
+}
+
+body {
+color: #333;
+background: #ffecc7;
+font-size: 1em;
+}
+
+
+strong {
+font-weight: bolder;
+}
+
+em {
+font-style: italic;
+}
+
+abbr, acronym {
+text-transform: lowercase;
+font-variant: small-caps;
+letter-spacing: 1px;
+}
+
+
+a:link {
+text-decoration: none;
+color: #3399CC;
+}
+
+a:visited {
+text-decoration: none;
+color: #3399CC;
+}
+
+a:hover {
+color: #000;
+text-decoration: none;
+border-bottom: 1px dotted #ccc;
+}
+
+h1 {
+	font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 3em;
+font-weight: bold;
+margin-bottom: 0.3em;
+color: black;
+}
+
+
+h2 {
+	font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 2em;
+	color: #000;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+
+
+h3 {
+	font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+color: #000;
+font-size: 1.5em;
+margin-top: 2em;
+font-weight: bolder;
+}
+
+h4 {
+font-size: 1em;
+font-weight: bolder;
+font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+h5 {
+font-size: 1em;
+font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-bottom: 0.5em;
+}
+
+.secondary {
+  font-weight: bold;
+}
+
+#outer-container
+{
+margin: 0 auto;
+width: 100%;
+}
+
+#inner-container {
+  padding: 2em 0 4em 0;
+margin: 0 auto;
+max-width: 55%;
+min-width: 20%;
+text-align: center;
+}
+
+
+p {
+	font-family: "europa", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 2em;
+color: #000;
+margin-bottom: 1em;
+}
+
+
+::selection {
+	background: #fff2a8;
+	}
+::-moz-selection {
+	background: #fff2a8;
+}
+
+
+
+strong {
+font-weight: bold;}
+
+tr {
+padding-right: 3em;}
+
+.strong {
+	font-weight: bold;
+}
+
+.nav-links li {
+	display: inline-block;
+	background: red;
+}
+
+
+.hi-everyone {
+	margin: 2em 0 0 0;
+}
+
+.status {
+	border-bottom: 1px dotted #ccc;
+	margin: 1em 0 3em 0;
+}
+
+.footer {
+  font-size: 1.5em;
+}
+
+.cherry {
+	margin-bottom: 100px;
+}
+
+.cherrymorphosis {
+	border-bottom: 1px dotted black;
+	margin-bottom: 50px;
+}
+
+.cherrymorphosis h1 {
+	font-style: italic;
+}
