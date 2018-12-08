@@ -5,7 +5,7 @@
 layout: page
 
 ---
-# rebecca cottrell: cv
+# CV
 
 ### exhibitions + events
 
@@ -14,6 +14,9 @@ ASP4: Artist Self-Publisher's Fair (Guilty Pleasures)
 
 December 2018  
 RCA Secret
+
+October 2018  
+Dance of Life, Church Street Library – article on [It's Nice That](https://www.itsnicethat.com/articles/dance-of-life-royal-college-of-art-london-print-studio-publication-221018)
 
 April 2018  
 Common Market, Royal College of Art

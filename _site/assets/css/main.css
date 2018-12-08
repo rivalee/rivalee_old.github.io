@@ -20,8 +20,8 @@ body {
   font: "Helvetica Neue", Helvetica, sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: #343a40;
-  background-color: #CFF3FF;
+  color: black;
+  background-color: #fff;
   -webkit-font-smoothing: antialiased; }
   @media (max-width: 38rem) {
     body {
@@ -32,7 +32,7 @@ body {
   Link
   -------------- */
 a {
-  color: red;
+  color: blue;
   text-decoration: none; }
   a:hover, a:focus {
     text-decoration: underline; }
@@ -73,7 +73,7 @@ h6 {
   Body Text
   -------------- */
 p {
-  color: #343a40;
+  color: black;
   margin: 0 0 1rem;
   line-height: 1.7em; }
 
@@ -557,7 +557,7 @@ body {
 
 .content-container {
   max-width: 48rem;
-  padding: 5rem 1rem;
+  padding: 1rem 0rem;
   margin-left: auto;
   margin-right: auto; }
   @media (max-width: 48rem) {
@@ -617,6 +617,14 @@ body {
   list-style-type: none;
   padding-left: 2em;
   text-indent: -2em; }
+
+.page-home p {
+  display: block;
+  background: pink;
+  margin-left: -20%;
+  padding: 10%;
+  font-family: 'Palanquin Dark';
+  font-size: 300%; }
 
 /*--------------
   Post
@@ -782,6 +790,7 @@ Nav
   display: inline-block; }
 
 .nav-links a {
+  font-size: 120%;
   margin-right: 1.5em; }
 
 /*--------------
