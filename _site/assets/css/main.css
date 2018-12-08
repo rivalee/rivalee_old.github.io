@@ -550,6 +550,12 @@ html {
   font-size: 18px;
   line-height: 1.6; }
 
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc($base-font + 6 * ((100vw - 320px) / 680)); } }
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 22px; } }
 html,
 body {
   margin: 0;
@@ -619,12 +625,13 @@ body {
   text-indent: -2em; }
 
 .page-home p {
+  width: 100%;
   display: block;
   background: pink;
-  margin-left: -20%;
-  padding: 10%;
+  margin-left: -7%;
+  padding: 7%;
   font-family: 'Palanquin Dark';
-  font-size: 300%; }
+  font-size: 270%; }
 
 /*--------------
   Post
