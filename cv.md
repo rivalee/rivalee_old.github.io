@@ -5,12 +5,12 @@
 layout: page
 
 ---
-# CV
+# cv
 
 ### exhibitions + events
 
 December 2018  
-ASP4: Artist Self-Publisher's Fair (Guilty Pleasures)
+ASP4: Artist Self-Publisher's Fair (Guilty Pleasures), ICA
 
 December 2018  
 RCA Secret

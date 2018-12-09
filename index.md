@@ -6,4 +6,4 @@ layout: page-home
 
 ---
 
-Interaction designer and illustrator based in London, current student on MA Visual Communication at the Royal College of Art
+Interaction designer and illustrator and current student on MA Visual Communication at the Royal College of Art
