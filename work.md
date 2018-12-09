@@ -7,12 +7,19 @@ layout: page-work
 ---
 # work
 
-For work in progress, see [Instagram](http://instagram.com/rapturebird)! 
+For work in progress, see [Instagram](http://instagram.com/rapturebird)!
 
 ### comics
 
-[Flying Dream](flying-dream)
+### [Flying Dream](flying-dream)
+![](images/thumb_fd.png)  
 
-[Merge](merge)
+***
 
-[Wuff Story](wuff-story)  
+### [Merge](merge)
+![](images/thumb_merge.png)  
+
+***
+
+### [Wuff Story](wuff-story)  
+![](images/thumb_wuff.png)  
