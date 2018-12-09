@@ -9,9 +9,6 @@ layout: page
 
 I write some things.
 
-## personal
-... 
-
 
 ## academic
 ![](images/dissertation_cover.png)
