@@ -11,8 +11,14 @@ For work in progress, see [Instagram](http://instagram.com/rapturebird)!
 
 ### comics
 
+
 ### [Flying Dream](flying-dream)
 ![](images/thumb_fd.png)  
+
+***
+
+### [Dog Walk](dog-walk)
+![](images/thumb_dogwalk.png)  
 
 ***
 
