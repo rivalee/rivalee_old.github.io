@@ -6,6 +6,6 @@ layout: default
 
 ---
 
-## A bird in the hand is worth two in the bush
+# Perpetual escape: Episode 1
 
-![](images/saying_1.png)  
+![](images/ep1.png)  
