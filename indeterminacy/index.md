@@ -13,9 +13,15 @@ Narrative indeterminacy follows the principles of John Cage's musical indetermin
 [Project description Google doc](https://docs.google.com/document/d/1F_pO2zXES8sr1yZO6I4OCdfLwCTKojcXYd6PZFX5h3A/edit?usp=sharing)
 
 ## Crossing the river
+A comic strip about a bird-like monster who lives under a bridge. In every strip, the monster encounters someone (or something) trying to cross the bridge. The monster makes a judgment and decision, which drives a different outcome in the story. The first and last panels are the same.
+
+[The shepherd](the-shepherd) -- The monster encounters a shepherd and makes a judgment.
 
 
-[The shepherd](the-shepherd)
+
+### initial painting exploring the bridge monster concept
+
+![](images/bridge_monster_1.png)  
 
 
 
