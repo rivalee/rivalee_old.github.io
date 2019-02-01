@@ -17,6 +17,7 @@ A comic strip about a bird-like monster who lives under a bridge. In every strip
 
 [The shepherd](the-shepherd) -- The monster encounters a shepherd and makes a judgment.
 
+[Template](template) -- Story template for Crossing the River
 
 
 ### initial painting exploring the bridge monster concept
