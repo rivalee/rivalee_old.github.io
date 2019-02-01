@@ -20,10 +20,6 @@ A comic strip about a bird-like monster who lives under a bridge. In every strip
 [Template](template) -- Story template for Crossing the River
 
 
-### initial painting exploring the bridge monster concept
-
-![](images/bridge_monster_1.png)  
-
 
 
 ## Perpetual escape  (abandoned)
