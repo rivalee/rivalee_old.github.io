@@ -15,16 +15,16 @@ A comic strip about a bird-like monster who lives under a bridge. In every strip
 
 ----
 
-[Template](template) -- All stories use this template.
+[Template](template) -- all comics are variations of this template
 
 ----
 
-[The shepherd](the-shepherd) -- The monster encounters a shepherd.
+[The shepherd](the-shepherd)
 
 
 ----
 
-The bird-hunter 
+[The phone call](the-phone-call)
 
 ----
 
