@@ -11,7 +11,7 @@ layout: default
 ![](images/bird-monster-colour.png)  
 
 ## The river and the bird-monster
-A comic strip about a bird-like monster who lives under a bridge. In every strip, the monster encounters someone (or something) trying to cross the bridge. The monster makes a judgment and decision, which drives a different outcome in the story. The first and last panels are the same.
+A comic strip about a bird-like monster who lives under a bridge. In every strip, the monster encounters someone (or something) trying to cross the bridge. The monster makes a judgment and decision, which drives a different outcome in the story. See the story [template](template). 
 
 ----
 
