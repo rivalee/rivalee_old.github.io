@@ -6,6 +6,7 @@ layout: default
 
 ---
 
-# Crossing the river: Template
+# Crossing the river: Template (scroll down for blank template )
 
 ![](images/template_bridge.png)  
+![](images/blank_template.png)  
