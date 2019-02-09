@@ -9,6 +9,7 @@ layout: default
 # Indeterminacy comics
 
 ![](images/map.png)
+![](images/participation_poster.png)
 
 
 ## Crossing the river
