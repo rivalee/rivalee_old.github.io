@@ -8,7 +8,8 @@ layout: default
 
 # Indeterminacy comics
 
-![](images/bird-monster-colour.png)  
+![](images/map.png)
+
 
 ## Crossing the river
 A comic strip about a bird-like monster who lives under a bridge. In every strip, the monster encounters someone (or something) trying to cross the bridge. The monster makes a judgment and decision, which drives a different outcome in the story. See the story [template](template).
@@ -47,6 +48,8 @@ Narrative indeterminacy follows the principles of John Cage's musical indetermin
 # Archive
 
 ## Perpetual escape  (abandoned)
+
+Concept was a cat who is continually getting trapped in things and escaping
 
 [Episode 1](episode-1)
 
