@@ -32,7 +32,7 @@ body {
   Link
   -------------- */
 a {
-  color: blue;
+  color: #CB505A;
   text-decoration: none; }
   a:hover, a:focus {
     text-decoration: underline; }
@@ -565,10 +565,12 @@ html {
     font-size: 45px;
     line-height: 150%;
     margin-left: -25px; } }
-html,
-body {
-  margin: 0;
-  padding: 0; }
+body, html {
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box; }
 
 .content-container {
   max-width: 48rem;
@@ -578,6 +580,9 @@ body {
   @media (max-width: 48rem) {
     .content-container {
       padding: 2rem 1.3rem; } }
+
+body {
+  margin: 0px; }
 
 /*--------------
   Header
@@ -623,9 +628,9 @@ body {
 .page-title {
   margin-top: 0;
   margin-bottom: 2rem;
-  font-size: 2.25em;
+  font-size: 2em;
   line-height: 1.2em;
-  font-weight: 600; }
+  font-weight: 300; }
 .page ul {
   list-style-type: none; }
 .page li {
@@ -636,9 +641,15 @@ body {
 .page-home p {
   width: 100%;
   display: block;
-  background: pink;
+  background: white;
+  color: #CB505A;
   margin-left: -7%;
-  padding: 7%;
+  padding: 5% 20% 0 20%;
+  font-family: 'Palanquin Dark'; }
+
+.nav-links a {
+  width: 100%;
+  color: #CB505A;
   font-family: 'Palanquin Dark'; }
 
 /*--------------

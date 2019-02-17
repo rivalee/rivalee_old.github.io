@@ -19,6 +19,8 @@ html {
 .page-home p {
   font-size: 25px;
 }
+
+
 @media screen and (min-width: 1000px) {
     h1 {
       font-size: 40px;
@@ -30,10 +32,12 @@ html {
 }
 }
 
-html,
-body {
-  margin: 0;
-  padding: 0;
+body,html{
+  height : 100%;
+  width : 100%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
 .content-container {
@@ -45,6 +49,10 @@ body {
   @media (max-width: 48rem){
     padding: 2rem 1.3rem;
   }
+}
+
+body {
+  margin : 0px;
 }
 
 
@@ -117,9 +125,9 @@ body {
   &-title {
     margin-top: 0;
     margin-bottom: 2rem;
-    font-size: 2.25em;
+    font-size: 2em;
     line-height: 1.2em;
-    font-weight: 600;
+    font-weight: 300;
   }
   ul {
     list-style-type: none;
@@ -135,13 +143,18 @@ body {
 .page-home p {
   width: 100%;
   display: block;
-  background: pink;
+  background: white ;
+  color: #CB505A;
   margin-left: -7%;
-  padding: 7%;
+  padding: 5% 20% 0 20%;
   font-family: 'Palanquin Dark';
 }
 
-
+.nav-links a {
+  width: 100%;
+  color: #CB505A;
+  font-family: 'Palanquin Dark';
+}
 
 /*--------------
   Post

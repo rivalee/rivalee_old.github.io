@@ -5,9 +5,9 @@
 layout: page
 
 ---
-
 [☜ back to work](narratives)  
-# wuff story
+# a bird in the hand
 
+A visual interpretation of a popular saying: how can a single, lossy sentence generate a rich visual story?
 
-![](images/wuff-story.png)
+![](images/saying_1.png)  

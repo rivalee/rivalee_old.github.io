@@ -5,7 +5,7 @@
 layout: page
 
 ---
-[☜ back to work](work)  
+[☜ back to work](narratives)  
 # merge
 
 A touching tale of a woman and a horse.

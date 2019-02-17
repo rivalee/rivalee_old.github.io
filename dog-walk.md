@@ -5,7 +5,7 @@
 layout: page
 
 ---
-[☜ back to work](work)  
+[☜ back to work](narratives)  
 # dog walk
 
 Dog Walk is a collaborative experiment into narrative comics, storytelling and structured remixes.

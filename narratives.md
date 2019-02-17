@@ -5,11 +5,14 @@
 layout: page-work
 
 ---
-# work
+# Narrative projects
 
-For work in progress, see [Instagram](http://instagram.com/rapturebird)!
+Stories and experiments with narrative.
 
-### comics
+
+### [Sayings](a-bird-in-the-hand)
+![](images/thumb_saying.png)
+
 
 
 ### [Flying Dream](flying-dream)
