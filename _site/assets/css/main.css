@@ -570,12 +570,18 @@ body, html {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box; }
 
+.comic-header {
+  margin: 0 auto !important; }
+
+.comic-nav ul, li {
+  display: inline-block; }
+
 .content-container {
-  max-width: 55rem;
+  max-width: 48rem;
   padding: 1rem 0rem;
   margin-left: auto;
   margin-right: auto; }
-  @media (max-width: 55rem) {
+  @media (max-width: 48rem) {
     .content-container {
       padding: 2rem 1.3rem; } }
 

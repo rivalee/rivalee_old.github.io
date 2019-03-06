@@ -5,9 +5,9 @@
 layout: page-work
 
 ---
-# Narrative projects
+## Narrative
 
-Stories and experiments with narrative.
+Some experiments with visual storytelling
 
 
 ### [Sayings](a-bird-in-the-hand)

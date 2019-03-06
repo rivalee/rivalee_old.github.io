@@ -3,11 +3,11 @@
 
 <div class="nav-links">
   <p>
-  <a href="index">Home</a>
-  <a href="narratives">Narratives</a>
+  <a href="index" {% if page.url == "/" %}style="color: black;"{% endif %}>Home</a>
+  <a href="narrative" {% if page.url == "/narrative.html" %}style="color: black;"{% endif %}>Narratives</a>
   <!--<a href="projects">Projects</a>-->
   <!--<a href="cv">CV</a>-->
-  <a href="about">About</a>
+  <a href="about" {% if page.url == "/about.html" %}style="color: black;"{% endif %}>About</a>
 </p>
 
   <h1 class="page-nav">Rebecca Cottrell</h1>
