@@ -252,8 +252,7 @@ pre code {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
-  border-radius: 5px; }
+  margin: 0 0 0rem; }
 
 /*--------------
   Table
@@ -563,8 +562,7 @@ html {
 
   .page-home p {
     font-size: 45px;
-    line-height: 150%;
-    margin-left: -25px; } }
+    line-height: 150%; } }
 body, html {
   height: 100%;
   width: 100%;
@@ -573,11 +571,11 @@ body, html {
   -webkit-box-sizing: border-box; }
 
 .content-container {
-  max-width: 48rem;
+  max-width: 55rem;
   padding: 1rem 0rem;
   margin-left: auto;
   margin-right: auto; }
-  @media (max-width: 48rem) {
+  @media (max-width: 55rem) {
     .content-container {
       padding: 2rem 1.3rem; } }
 
@@ -641,10 +639,7 @@ body {
 .page-home p {
   width: 100%;
   display: block;
-  background: white;
-  color: #CB505A;
-  margin-left: -7%;
-  padding: 5% 20% 0 20%;
+  padding: 5% 0% 0 0%;
   font-family: 'Palanquin Dark'; }
 
 .nav-links a {

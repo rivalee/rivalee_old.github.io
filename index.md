@@ -6,4 +6,5 @@ layout: page-home
 
 ---
 
-![](images/bird_bridge.png)  
+
+![](images/diamond_dog_pattern.png)  
