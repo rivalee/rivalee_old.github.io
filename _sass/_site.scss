@@ -48,6 +48,11 @@ body,html{
   display: inline-block;
 }
 
+.comic-body img {
+  width: 55%;
+  float: left;
+}
+
 .content-container {
   max-width: 48rem;
   padding: 1rem 0rem;

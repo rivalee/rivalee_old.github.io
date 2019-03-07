@@ -6,8 +6,22 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Fruit bowl</title>
-        <description>&lt;p&gt;&lt;img src=&quot;images/fruit_bowl.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;images/fly_structure.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/2019/03/06/a-test-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/03/06/a-test-post.html</guid>
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;images/fruitbowl2.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;images/fruitbowl3.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;images/fruitbowl4.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;images/fruitbowl5.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;images/fruitbowl6.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;images/fruitbowl7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/2019/03/06/fruit-bowl.html</link>
