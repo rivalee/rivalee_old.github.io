@@ -10,6 +10,8 @@ twitter_username: http://twitter.com/rapturebird
 instagram_username: rapturebird
 
 paginate: 1
+gems: [jekyll-paginate]
+paginate_path: "swatted/page:num"
 
 
 # Build settings
