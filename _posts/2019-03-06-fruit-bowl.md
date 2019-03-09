@@ -5,9 +5,9 @@ date: 2019-03-06
 ---
 
 Testytestytestytestytytytytyty!!!!
-![](../assets/images/fruitbowl2.png)  
-![](../assets/images/fruitbowl3.png)  
-![](../assets/images/fruitbowl4.png)  
-![](../assets/images/fruitbowl5.png)  
-![](../assets/images/fruitbowl6.png)  
-![](../assets/images/fruitbowl7.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl2.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl3.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl4.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl5.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl6.png)  
+![](https://github.com/rivalee/rivalee.github.io/blob/master/assets/images/fruitbowl7.png)  
