@@ -45,6 +45,13 @@ body,html{
   text-align: center;
 }
 
+.story-wrapper {
+  text-align: center;
+}
+.story-wrapper img {
+  margin-left: auto;
+	margin-right: auto;
+}
 .comic-nav ul,li {
   display: inline-block;
 }
@@ -53,6 +60,9 @@ body,html{
   width: 95%;
 }
 
+.content-container ol, li {
+  display: block;
+}
 
 .pagination-wrap {
   text-align: center;
@@ -157,7 +167,7 @@ body {
   &-title {
     margin-top: 0;
     margin-bottom: 2rem;
-    font-size: 2em;
+    font-size: 2.5em;
     line-height: 1.2em;
     font-weight: 300;
   }
@@ -176,13 +186,13 @@ body {
   width: 100%;
   display: block;
   padding: 5% 0% 0 0%;
-  font-family: 'Palanquin Dark';
+  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark';
 }
 
 .nav-links a {
   width: 100%;
   color: #CB505A;
-  font-family: 'Palanquin Dark';
+  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark';
 }
 
 /*--------------
@@ -207,6 +217,7 @@ body {
 
    &-tag {
     margin-bottom: 1.5rem;
+
 
     ul {
       list-style-type: none;
@@ -445,6 +456,7 @@ body {
     }
   }
 }
+
 
 /*--------------
 Nav

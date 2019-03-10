@@ -12,6 +12,8 @@ instagram_username: rapturebird
 paginate: 1
 gems: [jekyll-paginate]
 paginate_path: "swatted/page:num"
+permalink: /:year/:month/:day/:title.html
+
 
 
 # Build settings

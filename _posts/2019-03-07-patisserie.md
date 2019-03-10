@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-comic
 title: ""
 date: 2019-03-06
 ---
