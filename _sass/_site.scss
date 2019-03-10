@@ -42,6 +42,7 @@ body,html{
 
 .comic-header {
   margin: 0 auto !important;
+  text-align: center;
 }
 
 .comic-nav ul,li {
@@ -49,10 +50,28 @@ body,html{
 }
 
 .comic-body img {
-  width: 55%;
-
+  width: 95%;
 }
 
+
+.pagination-wrap {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+  padding: 25px;
+  font-size: 150%;
+}
+
+
+.next {
+  padding-left: 20px;
+}
+
+.previous {
+  padding-right: 20px;
+}
 .content-container {
   max-width: 48rem;
   padding: 1rem 0rem;

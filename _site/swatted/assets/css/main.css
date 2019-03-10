@@ -32,7 +32,7 @@ body {
   Link
   -------------- */
 a {
-  color: #CB505A;
+  color: blue;
   text-decoration: none; }
   a:hover, a:focus {
     text-decoration: underline; }
@@ -571,13 +571,28 @@ body, html {
   -webkit-box-sizing: border-box; }
 
 .comic-header {
-  margin: 0 auto !important; }
+  margin: 0 auto !important;
+  text-align: center; }
 
 .comic-nav ul, li {
   display: inline-block; }
 
 .comic-body img {
-  width: 55%; }
+  width: 95%; }
+
+.pagination-wrap {
+  text-align: center; }
+
+.pagination {
+  display: inline-block;
+  padding: 25px;
+  font-size: 150%; }
+
+.next {
+  padding-left: 20px; }
+
+.previous {
+  padding-right: 20px; }
 
 .content-container {
   max-width: 48rem;

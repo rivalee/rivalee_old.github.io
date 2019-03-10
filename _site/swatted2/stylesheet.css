@@ -44,6 +44,8 @@ table {
 
 h1 {
   font-size: 40px;
+  margin-bottom: 30px;
+  margin-top: 30px;
 }
 h2 {
   font-size: 30px;
@@ -56,11 +58,11 @@ p {
   font-size: 16px;
 }
 
-#page-wrap {
-  width: 90%;
+.page-wrap {
   margin: 0 auto;
+  width: 80%;
 }
 
 .comic img {
-  width: 30%;
+  width: 50%; 
 }
