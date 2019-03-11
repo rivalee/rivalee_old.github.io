@@ -1,6 +1,6 @@
 ---
 layout: post-comic
-title: ""
+title: "Fruitbowl"
 date: 2019-03-06
 permalink: fruitbowl
 ---

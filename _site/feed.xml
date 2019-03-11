@@ -6,7 +6,7 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title></title>
+        <title>Patisserie</title>
         <description>&lt;p&gt;&lt;img src=&quot;../assets/images/patisserie.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
@@ -15,7 +15,7 @@
       </item>
     
       <item>
-        <title></title>
+        <title>Fruitbowl</title>
         <description>&lt;p&gt;&lt;img src=&quot;../assets/images/fruitbowl.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>

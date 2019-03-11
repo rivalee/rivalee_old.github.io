@@ -1,6 +1,6 @@
 ---
 layout: post-comic
-title: ""
+title: "Patisserie"
 date: 2019-03-06
 permalink: patisserie
 ---
