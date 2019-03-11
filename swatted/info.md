@@ -1,5 +1,5 @@
 ---
-layout: fly-comic
+layout: fly-comic-info
 ---
 
 # Emergent narrative
