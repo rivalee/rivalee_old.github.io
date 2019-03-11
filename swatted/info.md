@@ -1,11 +1,16 @@
 ---
-layout: default
+layout: fly-comic
 ---
 
-Swatted is a comic about a fly who dies in every comic. It's an investigation into using rules to produce an emergent outcome. 
+# Emergent narrative
 
-1. Each comic is 6 panels long.
-2. The fly dies at the end of every comic.
-3. The fly is relentlessly optimistic and seemingly blind to his surroundings.
-4. The fly speaks directly to the camera.
-5. TBC
+Swatted is a comic about a fly who dies in every comic. It's an investigation into using rules to produce an emergent outcome.
+
+## Rules
+
+1. Six panels
+2. The fly dies at the end of every comic
+3. The fly is relentlessly optimistic despite the circumstances
+4. The fly appears to be refined despite his true status
+5. Often a second story is happening in the background
+6. The primary voice is the fly, who always speaks directly to the camera

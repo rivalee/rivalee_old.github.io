@@ -574,6 +574,11 @@ body, html {
   margin: 0 auto !important;
   text-align: center; }
 
+.comic-header img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%; }
+
 .story-wrapper {
   text-align: center; }
 
