@@ -6,10 +6,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Entomologist</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/entomologist.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/swatted/entomologist</link>
+        <guid isPermaLink="true">http://localhost:4000/swatted/entomologist</guid>
+      </item>
+    
+      <item>
         <title>Patisserie</title>
         <description>&lt;p&gt;&lt;img src=&quot;../assets/images/patisserie.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+        <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/swatted/patisserie</link>
         <guid isPermaLink="true">http://localhost:4000/swatted/patisserie</guid>
       </item>
