@@ -6,6 +6,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Potential Friend</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/potential_friend.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Apr 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/swatted/potential-friend</link>
+        <guid isPermaLink="true">http://localhost:4000/swatted/potential-friend</guid>
+      </item>
+    
+      <item>
         <title>Crush</title>
         <description>&lt;p&gt;&lt;img src=&quot;../assets/images/crush.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
