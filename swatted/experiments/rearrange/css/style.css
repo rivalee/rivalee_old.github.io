@@ -1,20 +1,33 @@
 body {
     padding: 20px;
 }
+
+.comic-content {
+  margin: 0 auto;
+  text-align: center;
+}
 .slides {
+  display: inline-block;
     list-style: none;
     margin: 0;
     padding: 0;
-    width: 300px;
+    width: 500px;
+    padding: 30px;
 }
 .slide {
-    height:  100px;
-    padding: 15px;
-    background-color: #2F2F2F;
+  float: left;
+    height:  100%;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
     margin: 0 0 15px;
     text-align: center;
-    color: #FFF;
+    color: black;
     border: 2px solid #444;
+}
+
+.slide img {
+  width: 300px;
 }
 
 .slide-placeholder {
@@ -31,14 +44,20 @@ body {
 	background-color: #FFF;
 }
 
+.slide1 {
+  background: yellow;
+}
+
 .slide2 {
-    height: 100px;
+  background: red;
+
 }
 .slide3 {
-    height: 100px;
+  background: green;
+
 }
 .slide4 {
-    height: 100px;
+  background: blue;
 }
 .slide5 {
     height: 100px;
