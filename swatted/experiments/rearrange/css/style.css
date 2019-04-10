@@ -15,7 +15,6 @@ body {
     padding: 30px;
 }
 .slide {
-  float: left;
     height:  100%;
     width: 500px;
     padding: 10px;
@@ -23,7 +22,6 @@ body {
     margin: 0 0 15px;
     text-align: center;
     color: black;
-    border: 2px solid #444;
 }
 
 .slide img {
@@ -31,7 +29,7 @@ body {
 }
 
 .slide-placeholder {
-	background: #DADADA;
+	background: pink;
 	position: relative;
 }
 .slide-placeholder:after {
