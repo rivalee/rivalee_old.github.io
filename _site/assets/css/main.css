@@ -619,6 +619,12 @@ body, html {
     .content-container {
       padding: 2rem 1.3rem; } }
 
+.animation-layout {
+  max-width: 500px; }
+
+.animation-layout img {
+  padding-bottom: 200px; }
+
 body {
   margin: 0px; }
 

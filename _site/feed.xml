@@ -6,12 +6,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Potential Friend</title>
-        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/potential_friend.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <title>The Cat</title>
+        <description>&lt;p&gt;Animation test&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/the_cat_frames/cat_1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/the_cat_frames/cat_2.gif&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/the_cat_frames/cat_3.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/the_cat_frames/cat_4.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/the_cat_frames/cat_5.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/images/the_cat_frames/cat_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Apr 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/swatted/potential-friend</link>
-        <guid isPermaLink="true">http://localhost:4000/swatted/potential-friend</guid>
+        <link>http://localhost:4000/swatted/the-cat</link>
+        <guid isPermaLink="true">http://localhost:4000/swatted/the-cat</guid>
       </item>
     
       <item>
