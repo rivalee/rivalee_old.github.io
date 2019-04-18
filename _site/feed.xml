@@ -6,6 +6,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Ointment</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/ointment.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/swatted/ointment</link>
+        <guid isPermaLink="true">http://localhost:4000/swatted/ointment</guid>
+      </item>
+    
+      <item>
         <title>The Cat</title>
         <description>&lt;p&gt;Animation test&lt;/p&gt;
 
