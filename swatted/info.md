@@ -13,6 +13,6 @@ Swatted is a comic about a fly who dies in every comic. It's an investigation in
 3. A roll of the dice (a single die, six sides) determines the panel in which the fly dies
 4. After the fly's death, events may still be occurring
 5. The fly is always relentlessly optimistic despite the circumstances
-6. The fly appears to be refined despite his true status
-7. Often a second story is happening in the background
+6. The fly appears to be refined despite its true status
+7. Often a second story, unknown to the fly, is happening in the background
 8. The primary voice is the fly, who speaks directly to the camera
