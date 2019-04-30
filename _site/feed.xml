@@ -6,6 +6,15 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Sceptre</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../assets/images/sceptre.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 18 Apr 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/swatted/sceptre</link>
+        <guid isPermaLink="true">http://localhost:4000/swatted/sceptre</guid>
+      </item>
+    
+      <item>
         <title>Hotel</title>
         <description>&lt;p&gt;&lt;img src=&quot;../assets/images/hotel.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
