@@ -1,8 +1,13 @@
 body {
     padding: 20px;
-    background: red;
+    background: pink;
 }
 
+.content {
+  padding-top: 150px;
+  text-align: center;
+  margin: 0 auto;
+}
 #comicBox img {
   width: 300px;
 }
