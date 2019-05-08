@@ -1,0 +1,62 @@
+body {
+    padding: 20px;
+}
+
+.comic-content {
+  margin: 0 auto;
+  text-align: center;
+}
+.slides {
+  display: inline-block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    padding: 30px;
+}
+.slide {
+    height:  100%;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+    margin: 0 0 15px;
+    text-align: center;
+    color: black;
+}
+
+.slide img {
+  width: 300px;
+}
+
+.slide-placeholder {
+	background: pink;
+	position: relative;
+}
+.slide-placeholder:after {
+	content: " ";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 15px;
+	background-color: #FFF;
+}
+
+.slide1 {
+  background: yellow;
+}
+
+.slide2 {
+  background: red;
+
+}
+.slide3 {
+  background: green;
+
+}
+.slide4 {
+  background: blue;
+}
+.slide5 {
+    height: 100px;
+}
