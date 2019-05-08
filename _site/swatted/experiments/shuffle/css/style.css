@@ -1,12 +1,22 @@
 body {
     padding: 20px;
-    background: pink;
+    background: white;
 }
 
 .content {
   padding-top: 150px;
   text-align: center;
   margin: 0 auto;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.reload {
+  margin: 20px;
 }
 #comicBox img {
   width: 300px;
