@@ -5,6 +5,4 @@
 layout: default
 
 ---
-Hold on a sec / r.e.cottrell@gmail.com
-
-![](images/diamond_dog_pattern.png)  
+Hold on just one sec / r.e.cottrell@gmail.com
