@@ -30,9 +30,11 @@ Story physics* is the idea that stories follow natural laws and have a natural, 
 
 I wrote 8 rules to define the plots, similar to [Chuck Jones's character rules](http://www.openculture.com/2015/03/chuck-jones-9-rules-for-drawing-road-runner-cartoons.html) for Wile E. Coyote and the Roadrunner from Looney Tunes ("The roadrunner cannot harm the coyote, except by going 'beep-beep!'", "All action must be confined to the natural environment of the two characters – the southwest American desert"). The rules define the character and guide the plot and structure, and leave plenty of things undefined. The space between the rules, what's left undefined, is an opportunity for emergence and imagination (see the bit on emergent design below).
 
-An idea in story physics is to write characters with strongly opposite goals. The fly comics are about the conflict between what a fly wants (to be in human spaces, eat food belonging to humans) versus what a human wants (to live in a house without flies, to eat food uncontaminated by flies).
+An idea in story physics is to write characters with strongly opposite goals. Super simplified: the fly comics are about the conflict between what a fly wants (to be in human spaces, eat food belonging to humans) versus what a human wants (to live in a house without flies, to eat food uncontaminated by flies).
 
-I've been heavily inspired by John Yorke's very good book 'Into the Woods' about story structure and why we tell stories. He argues that stories are a blueprint for survival. [This is an very good lecture he gave at Google](https://www.youtube.com/watch?v=P0UZHUnB5pQ).
+![](assets/images/flyvshuman.png)
+
+I've been heavily inspired by John Yorke's book 'Into the Woods' about story structure and why we tell stories. He argues that stories are a blueprint for survival. [This is a very good lecture he gave at Google](https://www.youtube.com/watch?v=P0UZHUnB5pQ).
 
 The fly comics are also an experiment with using limitation. Each comic is only six panels long (two panels longer, actually, than is fashionable for online attention spans). It strongly relates to the work of the [Oubapo](https://en.wikipedia.org/wiki/Oubapo) and [Oulipo](https://en.wikipedia.org/wiki/Oulipo) groups — and if you don't know them, they're worth reading about.
 
