@@ -29,10 +29,20 @@ A painting by Georg Flegel. Look at the eyes on that fly.
 
 The comics are about a fly living in conflict with humans and losing every time. We like the fly: its personality is poetic, romantic, sensuous. It just wants to enjoy life, often in human spaces. Even though the fly dies in every single comic, it's alive in the next story. To borrow a phrase Tom Phillips used about Samuel Beckett: "after the boiling of the miserable bowl, there's a hard and irreducible speck of optimism".
 
-The comics are driven by rules. I wrote 8 rules to define aspects of the story and character. Story physics and story structure helped me to decide what the rules should be.
 
+## Rules and story physics
 
-## Story physics
+The comics are driven by rules. I wrote 8 rules to define aspects of the story and character. Story physics helped me to decide what the rules should be.
+
+1. Six panel stories
+2. The fly dies in every story
+3. A roll of the die determines the point at which the fly dies
+4. The fly is always relentlessly optimistic despite the circumstances
+5. The fly appears to be refined despite its true status
+6. Often a second story is happening in the background
+7. The primary voice is the fly, who always speaks directly to the camera
+8. After the fly's death, there is silence, though events may still be occurring
+
 
 Story physics is the idea that stories follow natural laws and have a natural, almost unavoidable structure to them. The term was popularised by Andrew Stanton of Pixar.
 
@@ -54,7 +64,7 @@ I've been obsessed with the idea of evolutionary, emergent and generative ideas 
 
 *Emergent design* is a term I use to describe art and stories that follows rules. Although it has a strongly computational aspect, I'm interested in humans performing the work, rather than computers. It's been hard to find a clear definition of emergent design, so this is my personal definition, which is distinct from generative design, and it sits within the bigger frame of systems art.
 
-Sol LeWitt is an artist who also worked with rules who's noted for his wall instructions, writing short specification for wall drawings which were carried out by another human.  Unlike Sol LeWitt, I'm not interested in exposing the system: I'm interested in systems as a kind of tool for interesting creative results.
+Sol LeWitt is an artist who's noted for his wall instructions, writing short specification for wall drawings which were carried out by another human.  Unlike Sol LeWitt, I'm not interested in exposing the system: I'm interested in systems as a kind of tool for interesting creative results.
 
  "The system is the work of art; the visual work of art is the proof of the system. The visual aspect can’t be understood without understanding the system. It isn’t what it looks like but what it is that is of basic importance."  [Here are some JavaScript implementations of Sol's rules.](http://solvingsol.com/solutions/)
 
