@@ -16,9 +16,6 @@ html {
     font-size: 100%;
   }
 }
-.page-home p {
-  font-size: 25px;
-}
 
 
 @media screen and (min-width: 1000px) {
@@ -98,6 +95,10 @@ body,html{
   @media (max-width: 48rem){
     padding: 2rem 1.3rem;
   }
+}
+
+.default-neue {
+  background: red;
 }
 
 .animation-layout {
@@ -196,19 +197,20 @@ body {
   }
 }
 
-.page-home h1 {
+.default-neue h1 {
+  font-family: 'Helvetica Neue', Helvetica;
+  background: red;
 }
-.page-home p {
+.default-neue p {
   width: 100%;
   display: block;
   padding: 5% 0% 0 0%;
-  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark';
+  font-family: 'Helvetica Neue', Helvetica;
 }
 
 .nav-links a {
   width: 100%;
-  color: #CB505A;
-  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark';
+  font-family: 'Helvetica Neue', Helvetica;
 }
 
 /*--------------

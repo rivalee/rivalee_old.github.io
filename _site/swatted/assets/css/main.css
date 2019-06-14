@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   padding-top: 0.3em;
-  padding-bottom: 0.3em;
+  padding-bottom: 0.5em;
   font-size: 2.5em;
   line-height: 1.2em;
   margin-bottom: 0; }
@@ -53,7 +53,7 @@ h1 {
 h2 {
   padding-top: 0.3em;
   padding-bottom: 0em;
-  font-size: 2em;
+  font-size: 1.5em;
   margin-bottom: 0; }
 
 h3 {
@@ -554,9 +554,6 @@ html {
   html {
     font-size: calc($base-font + 6 * ((100vw - 320px) / 680));
     font-size: 100%; } }
-.page-home p {
-  font-size: 25px; }
-
 @media screen and (min-width: 1000px) {
   h1 {
     font-size: 40px; }
@@ -619,6 +616,9 @@ body, html {
   @media (max-width: 48rem) {
     .content-container {
       padding: 2rem 1.3rem; } }
+
+.default-neue {
+  background: red; }
 
 .animation-layout {
   text-align: center; }
@@ -684,16 +684,19 @@ body {
   padding-left: 2em;
   text-indent: -2em; }
 
-.page-home p {
+.default-neue h1 {
+  font-family: 'Helvetica Neue', Helvetica;
+  background: red; }
+
+.default-neue p {
   width: 100%;
   display: block;
   padding: 5% 0% 0 0%;
-  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark'; }
+  font-family: 'Helvetica Neue', Helvetica; }
 
 .nav-links a {
   width: 100%;
-  color: #CB505A;
-  font-family: 'Helvetica Neue', Helvetica, 'Palanquin Dark'; }
+  font-family: 'Helvetica Neue', Helvetica; }
 
 /*--------------
   Post

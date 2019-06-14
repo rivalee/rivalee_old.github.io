@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: blank
+layout: default-neue
 
 ---
 
@@ -10,7 +10,7 @@ layout: blank
 
 Rebecca Cottrell / r.e.cottrell@gmail.com
 
- Yesterday I had my final exam. I'm still processing everything I've learned in the last 2 years, but while it’s still fresh in my mind, here are some notes on my project. The ideas came from my interests in art, computers, and my dissertation (about the role gaps and spaces play in audience imagination).
+I'm still processing everything I've learned in the last 2 years, but while it’s still fresh in my mind, here are some notes on my project. The ideas came from my interests in art, computers, and my dissertation (about the role gaps and spaces play in audience imagination).
 
  Shout-out to John Cage's [Indeterminacy project](https://en.wikipedia.org/wiki/Indeterminacy_(music)) and David Lynch's comic, [The Angriest Dog in the World](http://www.lynchnet.com/angrydog/), as well as various tutors who pointed me in the right direction.
 
