@@ -11,7 +11,7 @@ layout: default-neue
 Fake meat makes people uncomfortable, challenges masculinity, and is the future.
 
 ## Fictional bones
-A speculative design project which examined the purpose of bones in a post-meat future.
+A speculative design project which examined the purpose of bones in a post-meat future. These were a design provocation. What do we want to import into the new world of eating meat that doesn't come from animals? Could bones perform a nostalgic or functional role? Why would we want them at all?
 
 ![](../images/bone_utensils_1.jpg)
 
@@ -21,6 +21,6 @@ A speculative design project which examined the purpose of bones in a post-meat 
 
 
 ## Fake meat: some design patterns
-A book containing examples of fake meat, which was shrink-wrapped at a butcher in Clapham. The books were sold at ASP4 at the ICA in December 2018.
+A book containing examples of fake meat, which was shrink-wrapped in plastic at a local butcher in Clapham. The books were sold at ASP4 at the ICA in December 2018.
 
 ![](../images/fake_meat_patterns.jpg)
