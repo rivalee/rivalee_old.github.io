@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: default-neue
 
 ---
-[☜ back to work](narratives)  
-# merge
+
+# Merge
 
 A touching tale of a woman and a horse.
 

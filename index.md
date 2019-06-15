@@ -24,7 +24,11 @@ I design, I draw, and I make experimental comics.
 
 ![](../images/bone_thumbnail.jpg)
 
-
 [Dog Walk](dog-walk)
 
 ![](../images/dogwalk_thumbnail.jpg)
+
+
+[Merge](merge)
+
+![](../images/thumb_merge.png)

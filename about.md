@@ -11,12 +11,14 @@ layout: default-neue
 ![](images/me_small.jpg)  
 
 
-I'm a designer and illustrator living in London interested in experimental comics and systems art. I'm also interested in using rules and limitation to structure stories, emergent design, and absurdity which feels emotionally resonant. My MA dissertation was about the role of gaps and spaces in visual narrative and how they enable the reader or watcher to participate. I'm always interested in collaborations, so get in touch! 
+I'm a designer and illustrator living in London. I'm interested in creating experimental stories using limitation and rules, and creating a mood of absurdity which nevertheless feels emotionally resonant. My MA dissertation was about the role of gaps and spaces in visual narrative, and how they allow the reader or watcher to become imaginatively involved as a co-creator.
+
+I'm always interested in illustration commissions and collaborations, so get in touch!
+
 
 * MA Visual Communication, Royal College of Art
 * MSc Human-Computer Interaction, University College London
 * BA Design for Graphic Communication, University of Reading
 
 
-[rapturebird on Instagram](http://instagram.com/rapturebird),
-r.e.cottrell ✺ gmail.com  
+[rapturebird on Instagram](http://instagram.com/rapturebird), r.e.cottrell ✺ gmail.com  
