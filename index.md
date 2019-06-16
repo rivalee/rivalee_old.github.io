@@ -10,23 +10,25 @@ layout: default-neue
 
 I design, I draw, and I make experimental comics.
 
+***
 
 [Swatted: a minimalist tragicomedy](swatted-a-minimalist-tragicomedy)
 
 ![](../images/fruitbowl_thumbnail2.jpg)
 
+***
+
 [3 shapes](3-shapes)
 
 ![](../images/3_shapes_thumbnail.jpg)
 
-[Fake meat](fake-meat)
+***
 
-![](../images/bone_thumbnail.jpg)
+[Flying Dream](flying-dream)
 
-[Dog Walk](dog-walk)
+![](../images/thumb_fd.png)
 
-![](../images/dogwalk_thumbnail.jpg)
-
+***
 
 [Merge](merge)
 

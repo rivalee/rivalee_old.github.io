@@ -5,11 +5,11 @@
 layout: default-neue
 
 ---
-
 [⬅ back](index)
 
-# Merge
+# A bird in the hand
 
-A touching tale of a woman and a horse.
+A narrative generated from a single sentence: "a bird in the hand is worth two in the bush".
 
-![](images/merge.png)
+
+![](images/bird_in_the_hand.png)  
