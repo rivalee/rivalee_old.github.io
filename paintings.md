@@ -9,11 +9,21 @@ layout: default-neue
 # Drawing + painting
 
 
-Classmates
-![](images/classmates.png)  
+Interior
+![](images/flat_drawing_1.jpg)  
+
+![](images/flat_drawing_2.jpg)
+
+Swatted
+
+![](images/sceptre_painting.jpg)  
 
 Indeterminate postcard
 ![](images/indeterminate_postcard_1.jpg)  
+
+
+Classmates
+![](images/classmates.png)  
 
 A couple of (r)egrets
 ![](images/birds_bridge.png)  
