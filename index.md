@@ -11,8 +11,7 @@ layout: default-neue
 I design, I draw, and I make experimental comics.
 
 
-[Repeatedly killing a fly](repeatedly-killing-a-fly)
-
+[Swatted: a minimalist tragicomedy](swatted-a-minimalist-tragicomedy)
 
 ![](../images/fruitbowl_thumbnail2.jpg)
 
