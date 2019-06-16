@@ -14,9 +14,6 @@ Interior
 
 ![](images/flat_drawing_2.jpg)
 
-Swatted
-
-![](images/sceptre_painting.jpg)  
 
 Indeterminate postcard
 ![](images/indeterminate_postcard_1.jpg)  
