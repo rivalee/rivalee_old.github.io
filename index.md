@@ -32,4 +32,4 @@ I design, I draw, and I make experimental comics.
 
 [Merge](merge)
 
-![](../images/thumb_merge.png)
+![](../images/merge_photo.JPG)
