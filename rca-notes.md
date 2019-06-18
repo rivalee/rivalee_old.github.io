@@ -10,7 +10,7 @@ layout: default-neue
 
 Rebecca Cottrell, r.e.cottrell@gmail.com
 
-Here are some notes on my major MA project. The ideas came from my interest in art and computers, and my dissertation about the role gaps and spaces play in audience imagination. Shout-out to John Cage's [Indeterminacy project](https://en.wikipedia.org/wiki/Indeterminacy_(music)) and David Lynch's comic, [The Angriest Dog in the World](http://www.lynchnet.com/angrydog/). I learned about [Oubapo](https://en.wikipedia.org/wiki/Oubapo) too late for it to be an influence, but my project is very much in the Oubapian spirit.
+Here are some notes on my major MA project. The ideas came from my interest in art and computers, and my dissertation (about the role gaps and spaces play in audience imagination). Shout-out to John Cage's [Indeterminacy project](https://en.wikipedia.org/wiki/Indeterminacy_(music)) and David Lynch's comic, [The Angriest Dog in the World](http://www.lynchnet.com/angrydog/). I learned about [Oubapo](https://en.wikipedia.org/wiki/Oubapo) too late for it to be an influence, but my project is very much in the Oubapian spirit.
 
 My project is a comic strip about a fly who dies in every story. Every story is six panels long.
 
