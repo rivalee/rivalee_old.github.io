@@ -27,14 +27,18 @@ Flies are interesting because of how closely they live alongside humans. Human s
 In art, flies have been used to symbolise pleasure, decadence, a weakness for alcohol. They often serve a moral lesson about the dangers of enjoying yourself.
 
 ![](assets/images/georg-flegel.jpg)
-A painting by Georg Flegel. Look at the eyes on that fly.
+*A painting by Georg Flegel. Look at the eyes on that fly.*
 
-The comics are about a fly living in conflict with humans and losing every time. We like the fly: its personality is poetic, romantic, sensuous. It just wants to enjoy life, often in human spaces. Even though the fly dies in every single comic, it's alive in the next story. To borrow a phrase Tom Phillips used about Samuel Beckett: "after the boiling of the miserable bowl, there's a hard and irreducible speck of optimism".
+The comics are about a fly living in conflict with humans and losing every time. The fly is likeable: its personality is poetic, romantic, sensuous. It just wants to enjoy life, often in human spaces. Even though the fly dies in every single comic, it's alive in the next story. To borrow a phrase Tom Phillips used about Samuel Beckett: "after the boiling of the miserable bowl, there's a hard and irreducible speck of optimism".
 
 
 ## Rules and story physics
 
-The comics are driven by rules. I wrote 8 rules to define aspects of the story and character. Story physics helped me to decide what the rules should be.
+The comics are driven by rules. I wrote 8 rules to define aspects of the story and character. Story physics is the idea that stories follow natural laws and have a natural, almost unavoidable structure to them. The term was popularised by Andrew Stanton of Pixar.
+
+An idea in story physics is to write characters with strongly opposite goals. This core conflict means it's easy to imagine other parts of the story. Simplified, the fly comics are about the conflict between what a fly wants (to be in human spaces, eat food belonging to humans) versus what a human wants (to live in a house without flies, to eat food uncontaminated by flies).
+
+Story physics helped me to decide the rules.
 
 
 1. *Six panel stories.*
@@ -45,12 +49,6 @@ The comics are driven by rules. I wrote 8 rules to define aspects of the story a
 6. *Often, a second story is happening in the background.*
 7. *The primary voice is the fly, who performs a monologue for the audience.*
 8. *After the fly's death, there is silence, though events may still be occurring.*
-
-
-
-Story physics is the idea that stories follow natural laws and have a natural, almost unavoidable structure to them. The term was popularised by Andrew Stanton of Pixar.
-
-An idea in story physics is to write characters with strongly opposite goals. This core conflict means it's easy to imagine other parts of the story. Simplified, the fly comics are about the conflict between what a fly wants (to be in human spaces, eat food belonging to humans) versus what a human wants (to live in a house without flies, to eat food uncontaminated by flies).
 
 Story structure is usually defined as between 3 and 5 acts, and the comics are 6 panels long. If each story ends with the death of the fly, each panel is approximately an act. Except I've messed with this a bit: one of the rules is an element of chance, in that the panel in which the fly dies is determined by a dice roll. If the fly dies in the second panel, the rest of the comic becomes about the aftermath of the death.  
 
