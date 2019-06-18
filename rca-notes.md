@@ -36,14 +36,15 @@ The comics are about a fly living in conflict with humans and losing every time.
 
 The comics are driven by rules. I wrote 8 rules to define aspects of the story and character. Story physics helped me to decide what the rules should be.
 
-1. Six panel stories.
-2. The fly dies in every story. 
-3. A die roll determines the panel in which the fly dies.
-4. The fly is relentlessly optimistic despite difficult and threatening circumstances. 
-5. The fly is unaware of his low status and undesirability in human situations.
-6. Often, a second story is happening in the background.
-7. The primary voice is the fly, who performs a monologue for the audience.
-8. After the fly's death, there is silence, though events may still be occurring. 
+
+1. *Six panel stories.*
+2. *The fly dies in every story.*
+3. *A die roll determines the panel in which the fly dies.*
+4. *The fly is relentlessly optimistic despite difficult and threatening circumstances.*
+5. *The fly is unaware of his low status and undesirability in human situations.*
+6. *Often, a second story is happening in the background.*
+7. *The primary voice is the fly, who performs a monologue for the audience.*
+8. *After the fly's death, there is silence, though events may still be occurring.*
 
 
 
