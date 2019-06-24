@@ -6,15 +6,12 @@ description:
 url: "https://rcottrell.com" # the base hostname & protocol for your site
 
 
-twitter_username: http://twitter.com/rapturebird
 instagram_username: rapturebird
 
-paginate: 1
-gems: [jekyll-paginate]
-paginate_path: "swatted/page:num"
-permalink: /:year/:month/:day/:title.html
 
 
 
 # Build settings
 markdown: kramdown
+plugins: 
+- jekyll-seo-tag
