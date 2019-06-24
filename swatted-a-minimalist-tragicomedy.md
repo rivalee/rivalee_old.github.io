@@ -9,19 +9,23 @@ layout: default-neue
 
 # Swatted: a minimalist tragicomedy
 
-“Few creatures live in such close and intimate contact with human beings as flies”, writes Steven Connor. Swatted is a series of minimalist tragicomedies about a fly who dies in every story. Each story is 6 panels long. Narrative is driven by the conflict between the fly and the human spaces it inhabits. Romantic, poetic, and sensuous, the fly is a likeable and relentlessly optimistic character who ultimately loses the battle each time; yet despite the tragic outcome of each strip, the fly is alive again in the next story. Stories follow 8 rules for narrative and character, allowing a story to emerge within a defined structure. 
+![](images/ento_painting.jpg)  
+
+Rules shape behaviour and outcome. A gap between rules (the absence of a rule, something that is left undefined) is an opportunity for emergence. An emergent comic strip is a computational approach to authoring a story, where a human plays the role of a computer following a program.
+
+An emergent comic strip uses rules to structure and partially define stories. In Swatted, each story has the same tragic outcome: the protagonist dies at some point in the six-frame story. An aspect of chance shapes the story: the length of the fly’s life, already very short over a maximum of six panels, is controlled by a dice roll. How the protagonist dies isn’t defined, and a different story emerges each time within the structure of the rules, and from within the spaces.
+
+Character rules determine how the character responds to the world around it, drama comes from characters with strongly opposite goals. In this case, the conflict is between a fly and the human spaces it inhabits. The tragedy of the stories, in which the fly inevitably dies, is heightened by the joyful, optimistic, and likeable character of the fly.  
 
 [Read more about this project](rca-notes)
+
+![](images/fruitbowl_cover_blue.png)  
 
 
 ![](images/hotel_origami_flat.jpg)  
 
-![](images/fruitbowl_blue.jpg)  
-
 ![](images/hotel_photo_on_black.jpg)  
 
 ![](images/sceptre_painting.jpg)  
-
-![](images/ento_painting.jpg)  
 
 ![](images/patisserie_painting.jpg)  

@@ -6,14 +6,13 @@ layout: default-neue
 
 ---
 
-# About + contact
-
-![](images/me_small.jpg)  
+# About 
 
 
-I'm a designer and illustrator living in London. I'm interested in creating experimental stories using limitation and rules, and creating a mood of absurdity which nevertheless feels emotionally resonant. My MA dissertation was about the role of gaps and spaces in visual narrative, and how they allow the reader or watcher to become imaginatively involved as a co-creator.
 
-I'm always interested in illustration commissions and collaborations, so get in touch!
+I'm a designer and illustrator living in London. I create experimental stories, and aim for a mood of absurdity which nevertheless feels emotionally resonant. I also make paintings and drawings.
+
+I'm always interested in illustration commissions and collaborations. Get in touch!
 
 
 * MA Visual Communication, Royal College of Art
@@ -22,3 +21,6 @@ I'm always interested in illustration commissions and collaborations, so get in 
 
 
 [rapturebird on Instagram](http://instagram.com/rapturebird), r.e.cottrell ✺ gmail.com  
+
+
+![](images/me_small.jpg)  

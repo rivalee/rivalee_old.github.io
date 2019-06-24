@@ -8,24 +8,20 @@ layout: default-neue
 
 # Rebecca Cottrell
 
-I design, I draw, and I make experimental comics.
-
 
 [Swatted: a minimalist tragicomedy](swatted-a-minimalist-tragicomedy)
 
-![](../images/fruitbowl_thumbnail2.jpg)
+![](../images/fruitbowl_cover_blue.png)
 
+[Merge](merge)
 
-[3 shapes](3-shapes)
-
-![](../images/3_shapes_thumbnail.jpg)
-
+![](../images/merge_photo.JPG)
 
 [Flying Dream](flying-dream)
 
 ![](../images/thumb_fd.png)
 
 
-[Merge](merge)
+[3 shapes](3-shapes)
 
-![](../images/merge_photo.JPG)
+![](../images/3_shapes_thumbnail.jpg)

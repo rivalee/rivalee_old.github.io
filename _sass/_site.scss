@@ -69,8 +69,29 @@ body,html{
 }
 
 .neue-container img {
-  margin-left: -5%;
-  padding: 4%;
+  padding: 0% 4% 4% 4%;
+}
+
+.blocky {
+  text-align: center;
+  padding: 2% 0 0 2%;
+  border-bottom: 1px dotted blue;
+}
+
+
+.illu-wrapper {
+  width: 120%;
+  padding: 1rem 0rem;
+  margin-left: -10%;
+  display: inline-block;
+}
+
+
+
+.illustration-work img {
+  float: left;
+  width: 450px;
+  padding: 20px 20px 40px 20px;
 }
 
 .pagination-wrap {
@@ -487,9 +508,10 @@ Nav
 
 .nav-links {
 display: inline-block;
+width: 100%;
 }
 .nav-links a {
-  margin-right: 1.5em;
+  margin-right: 2em;
 }
 
 .nav-links p {

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+{% if page.style %}
+ <style type="text/css">
+     {{ page.style }}
+ </style>
+{% endif %}
+
+
+<body>
+
+  <div class="content-container">
+    {% include nav2.html %}
+
+    <div class="neue-container">
+
+
+    <div class="illu-wrapper">
+    <div class="illustration-work">
+
+    {{ content }}
+
+  </div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
