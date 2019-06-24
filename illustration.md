@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-neue-work
+title: Work
 
 ---
 
-# Illustration
+# Work
 
 For recent work, see [instagram](http://instagram.com/rapturebird).
 

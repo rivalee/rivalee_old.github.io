@@ -3,14 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-neue
+title: About 
+
 
 ---
 
-# About 
+# About
 
 
 
-I'm a designer and illustrator living in London. I create experimental stories, and aim for a mood of absurdity which nevertheless feels emotionally resonant. I also make paintings and drawings.
+I'm a designer and illustrator living in London. I graduated from the RCA in 2019, specialising in illustration. I also have a background working as a designer for technology companies.
+
+I create experimental stories, aiming for a mood of absurdity which feels emotionally resonant, and also make paintings and drawings.
 
 I'm always interested in illustration commissions and collaborations. Get in touch!
 
@@ -21,6 +25,3 @@ I'm always interested in illustration commissions and collaborations. Get in tou
 
 
 [rapturebird on Instagram](http://instagram.com/rapturebird), r.e.cottrell ✺ gmail.com  
-
-
-![](images/me_small.jpg)  
