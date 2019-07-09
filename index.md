@@ -3,11 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-neue
-title: Rebecca Cottrell, illustrator 
+title: Rebecca Cottrell, illustrator
 
 ---
-
-# Rebecca Cottrell
 
 
 [Swatted: a minimalist tragicomedy](swatted-a-minimalist-tragicomedy)

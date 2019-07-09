@@ -652,6 +652,11 @@ body {
 /*--------------
   Header
   -------------- */
+a.title {
+  color: black; }
+  a.title:hover, a.title:focus {
+    text-decoration: none; }
+
 .header {
   padding: 2%;
   margin-bottom: 1.5em; }
@@ -879,6 +884,7 @@ Nav
 ---------------- */
 .nav-links {
   display: inline-block;
+  text-align: center;
   width: 100%; }
 
 .nav-links a {
