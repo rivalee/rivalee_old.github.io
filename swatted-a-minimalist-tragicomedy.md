@@ -11,9 +11,7 @@ title: Swatted
 # Swatted
 
 
-*Swatted* was my major project at the RCA, and is a series of short comics about a fly who dies in every story. It's an experimental approach to writing and structuring a comic. The stories are composed by following eight rules, and a different story emerges each time. The project takes the form of risograph-printed origami books.
-
-[Further notes on this project](rca-notes)
+*Swatted* is a series of short comics about a fly who dies in every story. The stories are composed by following eight rules, and a different story emerges each time. The project takes the form of risograph-printed origami books. [Further notes on this project...](rca-notes)
 
 ![](images/fruitbowl_cover_blue.png)  
 
