@@ -74,8 +74,8 @@ body,html{
 
 .blocky {
   text-align: center;
-  padding: 5% 0 0% 2%;
-  margin-top: -5%;
+  padding: 5% 0 0% 0%;
+  margin-top: -10%;
 }
 
 .illu-wrapper {
@@ -242,10 +242,6 @@ body {
   font-family: 'Helvetica Neue', Helvetica;
 }
 
-.nav-links a {
-  width: 100%;
-  font-family: 'Helvetica Neue', Helvetica;
-}
 
 /*--------------
   Post
@@ -514,13 +510,22 @@ body {
 Nav
 ---------------- */
 
+.banner {
+  text-align: center;
+  color: black;
+  background: pink;
+  padding: 3px;
+}
+
 .nav-links {
 display: inline-block;
 text-align: center;
 width: 100%;
+padding: 0, 0, 0, 0;
+margin-top: -10;
 }
 .nav-links a {
-  margin-right: 2em;
+  margin-right: 1em;
 }
 
 .nav-links p {

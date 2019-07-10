@@ -11,10 +11,7 @@ title: About
 # About
 
 
-
-I'm a designer and illustrator living in London. I graduated from the RCA in 2019, specialising in illustration. I create experimental stories, aiming for a mood of absurdity which feels emotionally resonant, and also make paintings and drawings. I use my background working in technology to inspire mechanisms for creating experimental stories.
-
-I'm always interested in illustration commissions and collaborations – get in touch!
+I'm a designer and illustrator living in London. I make experimental comics and paintings, and I'm interested in creating a mood of absurdity which feels emotionally resonant. I'm always interested in illustration commissions and collaborations – get in touch!
 
 
 r.e.cottrell ✺ gmail.com
