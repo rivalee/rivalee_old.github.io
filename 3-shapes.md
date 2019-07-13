@@ -7,7 +7,7 @@ layout: default-neue
 ---
 [⬅ back](index)
 
-# 3 shapes
+# 3 shapes following 3 rules 
 
 One shape touching all frame edges
 
