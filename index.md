@@ -10,7 +10,7 @@ title: Rebecca Cottrell, illustrator
 
 [Swatted](swatted-a-minimalist-tragicomedy)
 
-![](../images/hotel_origami_photo_main.jpg)
+![](images/fruitbowl_cover_blue.png)  
 
 [Merge](merge)
 
