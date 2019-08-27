@@ -603,7 +603,7 @@ body, html {
   margin-top: -10%; }
 
 .illu-wrapper {
-  width: 120%;
+  width: 130%;
   padding: 1rem 0rem;
   margin-left: -10%;
   display: inline-block; }
@@ -611,7 +611,7 @@ body, html {
 .illustration-work img {
   float: left;
   width: 450px;
-  padding: 20px 20px 40px 20px; }
+  padding: 20px 50px 40px 20px; }
 
 .pagination-wrap {
   text-align: center; }
@@ -638,6 +638,9 @@ body, html {
 
 .default-neue {
   background: red; }
+
+img[src*="#small"] {
+  width: 350px; }
 
 .animation-layout {
   text-align: center; }

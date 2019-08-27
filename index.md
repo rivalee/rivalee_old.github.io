@@ -30,7 +30,7 @@ title: Illustration
 
 ![](images/a_woman_unimpressed.jpg)  
 
-![](images/birds_bridge2.png)  
+![](images/birds_bridge.png)  
 
 
 ![](images/watcher.jpg)  

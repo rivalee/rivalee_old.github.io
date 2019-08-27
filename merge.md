@@ -16,3 +16,5 @@ A touching tale of a woman and a horse.
 ![](../images/merge_photo.JPG)
 
 ![](images/merge.png)
+
+![](../images/merge.gif#small)
