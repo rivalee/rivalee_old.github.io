@@ -15,7 +15,7 @@ title: Rebecca Cottrell, illustrator
 
 [Merge](merge)
 
-![](../images/merge_photo.JPG)
+![](../images/merge.gif#small)
 
 [Flying Dream](flying-dream)
 
