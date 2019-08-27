@@ -5,9 +5,9 @@
 layout: default-neue
 
 ---
-[⬅ back](index)
+[← back](comics)
 
-# 3 shapes following 3 rules 
+# 3 shapes following 3 rules
 
 One shape touching all frame edges
 

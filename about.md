@@ -10,7 +10,7 @@ title: About
 
 # About
 
-I'm a designer and illustrator living in London, experimenting with comics and sequence. I'm a fan of emotionally-resonant absurdity, combining words and imagery, and [Oubapo](https://en.wikipedia.org/wiki/Oubapo). 
+I'm a illustrator and comic artist living in London. I'm a fan of emotionally-resonant absurdity, combining words and imagery, and [Oubapo](https://en.wikipedia.org/wiki/Oubapo).
 
 r.e.cottrell ✺ gmail.com
 

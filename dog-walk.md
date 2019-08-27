@@ -6,7 +6,7 @@ layout: default-neue
 
 ---
 
-[⬅ back](index)
+[← back](comics)
 
 # Dog Walk
 

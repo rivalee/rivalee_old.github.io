@@ -6,7 +6,7 @@ layout: default-neue
 title: Swatted
 
 ---
-[⬅ back](index)
+[← back](comics)
 
 # Swatted
 

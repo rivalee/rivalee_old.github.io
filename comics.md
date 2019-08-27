@@ -8,6 +8,7 @@ title: Rebecca Cottrell, illustrator
 ---
 # Comics
 
+...and experimental sequences 
 
 [Swatted](swatted-a-minimalist-tragicomedy)
 
