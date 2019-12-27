@@ -16,6 +16,9 @@ Get in touch: r.e.cottrell ✺ gmail.com
 
 See recent work on [Instagram](http://instagram.com/rapturebird)
 
+![](images/birdworm.gif)  
+
+
 ## Exhibitions + events
 
 * Ghost Comics Festival, Glasgow, October 2019
