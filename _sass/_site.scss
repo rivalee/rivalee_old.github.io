@@ -69,7 +69,7 @@ body,html{
 }
 
 .neue-container img {
-  padding: 0% 4% 4% 4%;
+  padding: 0%;
 }
 
 .blocky {
@@ -128,6 +128,10 @@ body,html{
 
 img[src*="#small"] {
    width:350px;
+}
+
+img[src*="#medium"] {
+   width:550px;
 }
 
 .animation-layout {

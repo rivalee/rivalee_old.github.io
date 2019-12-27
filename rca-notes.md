@@ -6,9 +6,7 @@ layout: default-neue
 
 ---
 
-# Some notes from the Royal College of Art
-
-Rebecca Cottrell, r.e.cottrell@gmail.com
+# RCA notes
 
 Here are some notes on my major MA project. The ideas came from my interest in art and computers, and my dissertation (about the role gaps and spaces play in audience imagination). Shout-out to John Cage's [Indeterminacy project](https://en.wikipedia.org/wiki/Indeterminacy_(music)) and David Lynch's comic, [The Angriest Dog in the World](http://www.lynchnet.com/angrydog/). I learned about [Oubapo](https://en.wikipedia.org/wiki/Oubapo) too late for it to be an influence, but my project is very much in the Oubapian spirit.
 
@@ -94,6 +92,6 @@ The point is to introduce some friction and resistance to what you would normall
 
 ## Come to THE SHOW
 
-Come to [the Royal College of Art School of Communication show](https://www.rca.ac.uk/news-and-events/events/show-2019/), 29 June to 7 July.
+Come to [the Royal College of Art School of Communication show](https://www.rca.ac.uk/news-and-events/events/show-2019/), 29 June to 7 July, 2019.
 
 ![](assets/images/hotel-frame-2.png)

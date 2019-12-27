@@ -3,14 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default-neue-work
-title: Work
+title: Illustration
 
 ---
 
-# Work
+![](images/river_liffey.jpg)  
 
-For recent work, see [instagram](http://instagram.com/rapturebird).
-
+![](images/feast.jpg)  
 
 ![](images/hotel_painting.jpg)  
 

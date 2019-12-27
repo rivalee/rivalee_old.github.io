@@ -6,7 +6,7 @@ layout: default-neue
 
 ---
 
-[← back](comics)
+[← back](index)
 
 # Merge
 

@@ -8,13 +8,13 @@ title: About
 
 ---
 
-# About
+# about
 
-I'm a illustrator and comic artist living in London. I'm a fan of emotionally-resonant absurdity, combining words and imagery, and [Oubapo](https://en.wikipedia.org/wiki/Oubapo).
+I make pictures and short experimental comics, with an interest in absurdity, dreams, and story rules. My major project at the RCA used a recurring plot about [a fly who dies in every story](rca-notes). I'm also interested in applying ideas in computing to ways of making stories and art.
 
-r.e.cottrell ✺ gmail.com
+Get in touch: r.e.cottrell ✺ gmail.com
 
-[Instagram](http://instagram.com/rapturebird)
+See recent work on [Instagram](http://instagram.com/rapturebird)
 
 ## Exhibitions + events
 
