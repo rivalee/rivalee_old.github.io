@@ -9,4 +9,4 @@ title: Rebecca Cottrell, illustrator
 
 Just a sec
 
-[@rapturebird](https://instagram.com/rapturebird])
+[@rapturebird](https://instagram.com/rapturebird)
